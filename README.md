@@ -1,2 +1,2 @@
 # lesso_21_easy
-Делаем анимацию и верстаем секцию price
+hard task for my 13th lesson
